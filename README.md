@@ -1,9 +1,15 @@
+# Livro de receitas :man_cook:
+
+Olá muito bem vindo ao nosso livro de receitas :wave:
+ - Lasanha
+#
+#
 ## Navegação via command line interface e instalação
 ### Anotações referente ao curso Introdução ao Git e ao GitHub ministrado pela **Digital Innovation One**
+1. Windowns :control_knobs:
+2. Linux :penguin:
 
-## Comandos iniciais
-
-### lista diretório (Windowns | Linux)
+### lista diretório
 - dir
 - ls
 ### command diretory navega (Windowns | Linux)
@@ -34,6 +40,8 @@
 - rmdir /S /Q		usando flags para ficar mais usual
 - rm -rf			r de recursivamente
 					f de force para não aparecer exigências de confirmações
+
+
 
 - SHA1
 	- A sigla SHA siginifica secure hash algorithm (Algoritimo de hash seguro), é um conjunto de funções hash criptografadas projetadas pela NSA (Agência de segurança nacional dos EUA)
